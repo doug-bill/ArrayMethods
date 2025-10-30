@@ -10,6 +10,16 @@ This is the way that I solved the problems shown.
 
 ## 📁 Folder Structure
 
+ArrayMethods/
+ ├── camelize/
+ ├── filterRange/
+ ├── filterRangeInPlace/
+ ├── sortDescending/
+ ├── copySorted/
+ ├── shuffle/
+ └── unique/
+
+
 | Exercise | Description |
 |-----------|--------------|
 |[✔️] [camelize](./ArrayMethods/camelize/) | Convert dash-separated words into camelCase. |
