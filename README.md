@@ -14,13 +14,13 @@ This is the way that I solved the problems shown.
 
 | Exercise | Description |
 |-----------|--------------|
-|[✔️] [camelize](./ArrayMethods/camelize/) | Convert dash-separated words into camelCase. |
-|[✔️] [filterRange](./ArrayMethods/filterRange/) | Return a **new array** with elements inside a given numeric range (doesn’t modify the original). |
-|[W.I.P] [filterRangeInPlace](./ArrayMethods/filterRangeInPlace/) | Modify the array to keep only values between `a` and `b`. |
-|[ ] [sortDescending](./ArrayMethods/sortDescending/) | Sort an array in **decreasing order**. |
-|[ ] [copySorted](./ArrayMethods/copySorted/) | Return a sorted copy of an array without changing the original one. |
-|[ ] [shuffle](./ArrayMethods/shuffle/) | Randomly reorder the elements of an array. |
-|[ ] [unique](./ArrayMethods/unique/) | Return an array with only unique elements (remove duplicates). |
+|[✔️] [camelize](./ArrayMethods/01_camel) | Convert dash-separated words into camelCase. |
+|[✔️] [filterRange](./ArrayMethods/02_filterRange) | Return a **new array** with elements inside a given numeric range (doesn’t modify the original). |
+|[✔️] [filterRangeInPlace](./ArrayMethods/03_filterInRange/) | Modify the array to keep only values between `a` and `b`. |
+|[✔️] [sortDescending](./ArrayMethods/04_sortInDecreasingOrder/) | Sort an array in **decreasing order**. |
+|[✔️] [copySorted](./ArrayMethods/05_CopyAndSortArray) | Return a sorted copy of an array without changing the original one. |
+|[ ] [shuffle](./ArrayMethods/06_ShuffleAnArray/) | Randomly reorder the elements of an array. |
+|[ ] [unique](./ArrayMethods/07_Unique/) | Return an array with only unique elements (remove duplicates). |
 
 ---
 
